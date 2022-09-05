@@ -1,0 +1,36 @@
+.red{
+    background-color: red;
+}
+.back{
+    background-color: black;
+}
+.view{
+    font-size: 30px;
+    color: wheat;
+}
+
+.nav{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+   
+}
+li{
+    display: inline-block;
+    background-color: wheat;
+    margin: 10px;
+    padding: 5px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.active{
+    background-color: red;
+
+}
+
